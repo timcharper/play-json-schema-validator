@@ -1,9 +1,8 @@
 
 val Repositories = Seq(
-  "Typesafe repository"           at "http://repo.typesafe.com/typesafe/releases/",
+  "Typesafe repository"           at "https://repo.typesafe.com/typesafe/releases/",
   "Sonatype OSS Snapshots"        at "https://oss.sonatype.org/content/repositories/snapshots",
-  "Sonatype OSS Releases"         at "https://oss.sonatype.org/content/repositories/releases",
-  "scalaz-bintray"                at "http://dl.bintray.com/scalaz/releases"
+  "Sonatype OSS Releases"         at "https://oss.sonatype.org/content/repositories/releases"
 )
 
 val commonSettings = Seq(
